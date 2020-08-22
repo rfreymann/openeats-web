@@ -34,7 +34,7 @@ class Footer extends React.Component{
                             id='footer.impressum'
                             defaultMessage='{link}'
                             values={{
-                                link: <a href="http://rafrey.com/Impressum">Impressum & Datenschutz</a>
+                                link: <a href="http://rafrey.com/Impressum/impressum.html">Impressum & Datenschutz</a>
                             }}
                         />
 
